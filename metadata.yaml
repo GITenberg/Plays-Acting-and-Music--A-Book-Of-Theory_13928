@@ -1,0 +1,29 @@
+_repo: Plays-Acting-and-Music--A-Book-Of-Theory_13928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+description: ''
+gutenberg_issued: '2004-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater'
+- !lcsh 'Actors'
+- !lcc 'PN'
+- !lcsh 'Music -- History and criticism'
+title: 'Plays, Acting and Music: A Book Of Theory'
+url: http://www.gutenberg.org/ebooks/13928
